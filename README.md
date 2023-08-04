@@ -38,5 +38,5 @@
 
 # Author:
     Coded By: Machine1337
-    Contact: https://t.me/R0ot1337
+    Telgram group: https://t.me/machine1337
     
