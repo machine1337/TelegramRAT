@@ -8,6 +8,9 @@
 # Installation:
     1. git clone https://github.com/machine1337/TelegramRAT.git
     2. Now Follow the instructions in HOW TO USE Section.
+    
+# DEMO:
+https://github.com/machine1337/TelegramRAT/assets/82051128/e7d92865-c6be-4b88-8453-634a8475cc14
 
 # HOW TO USE:
     1. Go to Telegram and search for https://t.me/BotFather
