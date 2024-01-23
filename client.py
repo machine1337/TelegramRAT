@@ -55,7 +55,7 @@ def execute_command(command):
             timezone = data.get('timezone')
             isp = data.get('isp')
 
-            final = f"Country: {country},\nRegion: {region},\nCity: {city},\nLatitude: {lat},\nLongitude: {lon},\nTimezone: {timezone},\nISP: {isp}"
+            final = f"IP Address: {public_ip},\nCountry: {country},\nRegion: {region},\nCity: {city},\nLatitude: {lat},\nLongitude: {lon},\nTimezone: {timezone},\nISP: {isp}"
             return final
         except Exception as e:
             return 'Some shit occured'
